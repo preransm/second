@@ -1,6 +1,6 @@
 
 class helloWorld {
     public static void main(String[] args) {
-        System.out.println("Try programiz.pro");
+        System.out.println("Hello world from remote repo");
     }
 }
